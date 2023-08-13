@@ -89,11 +89,6 @@ Erei is open-source software licensed under the [MIT License](https://opensource
 
 Feel free to customize this README file with additional information about your app, team, and development process. Good luck with your Erei project! If you have any other questions or need further assistance, feel free to ask.
 
-# Erei
-
-This is a "microservice" application intended to be part of a microservice architecture, please refer to the [Doing microservices with JHipster][] page of the documentation for more information.
-This application is configured for Service Discovery and Configuration with the JHipster-Registry. On launch, it will refuse to start if it is not able to connect to the JHipster-Registry at [http://localhost:8761](http://localhost:8761). For more information, read our documentation on [Service Discovery and Configuration with the JHipster-Registry][].
-
 ## Project Structure
 
 Node is required for generation and recommended for development. `package.json` is always generated for a better development experience with prettier, commit hooks, scripts and so on.
